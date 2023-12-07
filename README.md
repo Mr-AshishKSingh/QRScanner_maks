@@ -1,28 +1,4 @@
-/**
- * The following JAR files are included in the project:
- * 
- * - core-3.4.1.jar: This JAR file contains the core functionality of the project.
- * 
- * - javase-3.4.1.jar: This JAR file provides the Java SE implementation for the project.
- * 
- * - bridj-0.7.0.jar: This JAR file is used for native interop with C libraries.
- * 
- * - bridj-0.6.2-windows-only.jar: This JAR file is a Windows-only version of the BridJ library.
- * 
- * - jai-imageio-core-1.4.0.jar: This JAR file provides core functionality for the Java Advanced Imaging (JAI) library.
- * 
- * - jcommander-1.72.jar: This JAR file provides a command-line argument parsing framework.
- * 
- * - log4j-core-2.21.1.jar: This JAR file provides core functionality for the Log4j logging framework.
- * 
- * - mysql-connector-java: This JAR file contains the MySQL Connector/J driver for connecting to a MySQL database.
- * 
- * - slf4j-api-2.0.9: This JAR file provides the API for the Simple Logging Facade for Java (SLF4J) framework.
- * 
- * - sql: This JAR file contains the SQL API for working with databases.
- * 
- * - webcam-capture-0.3.12: This JAR file provides functionality for capturing images from a webcam.
- */
+
 # QR Code Reader
 
 This code is a QR code reader implemented in Java using the ZXing library. It provides a graphical user interface (GUI) for scanning and decoding QR codes.
@@ -79,6 +55,33 @@ This code relies on the following dependencies:
 - slf4j-api-2.0.9
 - sql
 - webcam-capture-0.3.12
+
+
+
+ * The following JAR files are included in the project:
+ * 
+ * - core-3.4.1.jar: This JAR file contains the core functionality of the project.
+ * 
+ * - javase-3.4.1.jar: This JAR file provides the Java SE implementation for the project.
+ * 
+ * - bridj-0.7.0.jar: This JAR file is used for native interop with C libraries.
+ * 
+ * - bridj-0.6.2-windows-only.jar: This JAR file is a Windows-only version of the BridJ library.
+ * 
+ * - jai-imageio-core-1.4.0.jar: This JAR file provides core functionality for the Java Advanced Imaging (JAI) library.
+ * 
+ * - jcommander-1.72.jar: This JAR file provides a command-line argument parsing framework.
+ * 
+ * - log4j-core-2.21.1.jar: This JAR file provides core functionality for the Log4j logging framework.
+ * 
+ * - mysql-connector-java: This JAR file contains the MySQL Connector/J driver for connecting to a MySQL database.
+ * 
+ * - slf4j-api-2.0.9: This JAR file provides the API for the Simple Logging Facade for Java (SLF4J) framework.
+ * 
+ * - sql: This JAR file contains the SQL API for working with databases.
+ * 
+ * - webcam-capture-0.3.12: This JAR file provides functionality for capturing images from a webcam.
+ 
 
 
 
