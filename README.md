@@ -1,4 +1,6 @@
 
+![alt text](QRScanner_maks\Img\image.png "Optional title")
+
 # QR Code Reader
 
 This code is a QR code reader implemented in Java using the ZXing library. It provides a graphical user interface (GUI) for scanning and decoding QR codes.
