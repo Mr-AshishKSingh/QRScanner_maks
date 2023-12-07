@@ -1,5 +1,5 @@
 
-![alt text](./QRScanner_maks/Img/image.png "Optional title")
+![alt text](Img/image.png "Optional title")
 
 # QR Code Reader
 
