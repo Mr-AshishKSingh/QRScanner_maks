@@ -1,4 +1,4 @@
-
+![alt text](Img/bitmap.png "Optional title")
 ![alt text](Img/image.png "Optional title")
 
 # QR Code Reader
